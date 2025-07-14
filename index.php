@@ -28,7 +28,7 @@
     </div>
   <section class="max-w-6xl mx-auto px-6 pt-20 pb-10 text-center">
     <div class="relative w-[17rem] h-[17rem] mb-6 mx-auto transition-transform duration-300 hover:scale-110">
-      <img src="/img/p2plogo.jpg" alt="P2P Logo" class="absolute inset-0 w-full h-full object-contain rounded-full shadow-2xl bg-white p-2">
+      <img src="/img/p2plogo.jpg" alt="P2P Logo" class="absolute inset-0 w-full h-full object-contain rounded-full shadow-2xl bg-white p-1">
     </div>
     <h1 class="text-5xl md:text-6xl font-extrabold tracking-tight leading-tight text-yellow-100 drop-shadow-xl">
       Welcome to <span class="text-white">Prospects to Pros</span><br>
