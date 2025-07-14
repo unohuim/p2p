@@ -8,12 +8,12 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
-<body class="bg-gradient-to-b from-[#001F3F] via-[#003366] to-white text-white min-h-screen font-sans">
+<body class="bg-gradient-to-b from-[#001F3F] via-[#003366] to-white text-white min-h-screen font-sans bg-[url('/img/ice-texture.png')] bg-cover bg-fixed bg-center">
 
   <div class="max-w-6xl mx-auto px-6 py-16">
     <!-- Logo and Hero Section -->
     <div class="flex flex-col items-center text-center">
-      <div class="relative w-52 h-52 mb-6 transition-transform duration-300 hover:scale-110"
+      <div class="relative w-52 h-52 mb-6 transition-transform duration-300 hover:scale-110">
         <img src="/img/p2plogo.jpg" alt="P2P Logo" class="absolute inset-0 w-full h-full object-contain rounded-full shadow-2xl bg-white p-2">
       </div>
 
