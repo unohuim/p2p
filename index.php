@@ -16,7 +16,7 @@
     <span class="text-xs bg-black/60 text-white px-3 py-1 rounded">Registration closes <span class="font-semibold text-yellow-200">Sep 7th.</span></span>
     <div class="hidden md:flex gap-4 items-center">
       <a href="#" class="text-white text-sm hover:text-yellow-300 transition">Home</a>
-      <a href="https://discord.gg/RC2A5cxG" target="_blank" class="px-4 py-2 bg-blue-700 hover:bg-blue-800 text-white text-sm font-semibold rounded-full shadow transition duration-200">Join Discord</a>
+      <a href="https://discord.gg/Gc7KNNMgaT" target="_blank" class="px-4 py-2 bg-blue-700 hover:bg-blue-800 text-white text-sm font-semibold rounded-full shadow transition duration-200">Join Discord</a>
     </div>
 
     <!-- Mobile Hamburger -->
